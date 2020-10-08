@@ -1,3 +1,6 @@
+Built following the tutorial by Clever Programmer:
+https://www.youtube.com/watch?v=XtMThy8QKqU
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
